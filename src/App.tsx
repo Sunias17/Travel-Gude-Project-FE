@@ -1,6 +1,6 @@
-import React from 'react'
-import styled from 'styled-components'
-import './App.css'
+import React from 'react';
+import styled from 'styled-components';
+import './App.css';
 
 const AppWrapper = styled.div`
 width: 100vw;
@@ -9,7 +9,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
-`
+`;
 const App: React.FC = () => {
   return (
     <AppWrapper>
@@ -18,7 +18,7 @@ const App: React.FC = () => {
       Travel Guide
       </span>
     </AppWrapper>
-  )
-}
+  );
+};
 
-export default App
+export default App;

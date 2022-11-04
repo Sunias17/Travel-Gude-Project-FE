@@ -21,5 +21,7 @@ module.exports = {
     'react'
   ],
   rules: {
+    '@typescript-eslint/semi': 'off',
+    semi: ['error', 'always']
   }
-}
+};
