@@ -1,8 +1,8 @@
-#Travel-Guide
+# Travel-Guide
 
-##App Dev Project
+## App Dev Project
 
-###Members:
+### Members:
 - Brett Galvez
 - Andrew Pinon
 - Renzzo Vhel Cortes
